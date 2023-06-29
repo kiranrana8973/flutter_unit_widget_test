@@ -1,0 +1,8 @@
+File,% Branch,% Funcs,% Lines,Uncovered Line #s 
+lib/,,,, 
+main.dart,0.00,0.00,0.00,no unit testing
+lib/model/,,,, 
+arithmetic.dart,100.00,100.00,25.00,"6,7,10,11,14,15"
+lib/view/,,,, 
+arithmetic_view.dart,0.00,0.00,0.00,no unit testing
+All files with unit testing,100.00,100.00,25.00,""
